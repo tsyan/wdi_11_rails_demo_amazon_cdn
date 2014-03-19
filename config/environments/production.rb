@@ -56,7 +56,7 @@ CDNDemo::Application.configure do
 
   # Enable serving of images, stylesheets, and JavaScripts from an asset server.
   # config.action_controller.asset_host = "http://assets.example.com"
-  config.action_controller.asset_host = "d1y7ccdtr5k9zo.cloudfront.net"
+  config.action_controller.asset_host = "d2j6m8u8h50n4h.cloudfront.net"
   # Precompile additional assets.
   # application.js, application.css, and all non-JS/CSS in app/assets folder are already added.
   # config.assets.precompile += %w( search.js )
